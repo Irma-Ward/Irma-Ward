@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Irma-Ward/Irma-Ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Irma Ward](https://www.linkedin.com/in/irmaward/)
 
-Here are some ideas to get you started:
+## Core Values
+Resilient • Honest • Humor • Curious 💪🏼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background 
+10+ Years in Gaming Development Production - Co-Dev & Publishing
+5 Years in Healthcare for Provider Services Management Groups
+5 Years in Industrial Manufacturing as a Sales Coordinator 
+
+## Education
+BA Computer Science - Devry University 
+
+## Current Project
+Learning how to build AI Agents, Vibe Coding and creating my own projects - Stay tuned  
+
+## Just for Fun Projects
+🍎AI Snack Club Member - A group of women creating, working and learning in AI 🌙✨
+
