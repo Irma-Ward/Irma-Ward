@@ -5,7 +5,7 @@
 Resilient • Honest • Humor • Curious 💪🏼
 
 ## Background 
-10+ Years in Gaming Development Production - Co-Dev & Publishing
+10+ Years in Gaming Development Production along with Project Management and Release Mangement - Co-Dev & Publishing
 5 Years in Healthcare for Provider Services Management Groups
 5 Years in Industrial Manufacturing as a Sales Coordinator 
 
