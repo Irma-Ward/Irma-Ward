@@ -13,7 +13,10 @@ Resilient • Honest • Humor • Curious 💪🏼
 BA Computer Science - Devry University 
 
 ## Current Project
-Learning how to build AI Agents, Vibe Coding and creating my own projects - Stay tuned  
+Building AI Agents, Vibe Coding and creating my own projects
+- AfterWords
+- JobCollectorAgent
+- SocialMediaAgent
 
 ## Just for Fun Projects
 🍎AI Snack Club Member - A group of women creating, working and learning in AI 🌙✨
