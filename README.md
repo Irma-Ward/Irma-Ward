@@ -15,8 +15,9 @@ BA Computer Science - Devry University
 ## Current Project
 Building AI Agents, Vibe Coding and creating my own projects
 - AfterWords
-- JobCollectorAgent
-- SocialMediaAgent
+- JobCollectorAgent (in progress)
+- SocialMediaAgent (in progress)
+- PM Autopilot (in progress)
 
 ## Just for Fun Projects
 🍎AI Snack Club Member - A group of women creating, working and learning in AI 🌙✨
